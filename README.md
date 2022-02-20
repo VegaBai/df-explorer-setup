@@ -48,11 +48,11 @@ This guide is by @waffle from #[dfdao]([discord.gg/aaHada53mQ](https://t.co/XDdU
 
          ![cuda_start_succeed](cuda_start_succeed.png)
 
-   5. If everything works, then you can go into the game and run the Remote Explorer plugin, put in http://localhost:8880/explore
+5. If everything works, then you can go into the game and run the Remote Explorer plugin, put in http://localhost:8880/explore
 
-      ![remote_explorer](remote_explorer.png)
+   ![remote_explorer](remote_explorer.png)
 
-      If you have a good GPU, you can increase the remote explorer hash chunk by editing the Remote Explorer plugin script:
+   If you have a good GPU, you can increase the remote explorer hash chunk by editing the Remote Explorer plugin script:
 
-      ![remote_execution_platform](remote_execution_platform.png)
+   ![remote_execution_platform](remote_execution_platform.png)
 
